@@ -1,1 +1,1 @@
-# Swarm_Intelligence_for_Portfolio_Optimisation
+# Swarm Intelligence for Portfolio Optimisation
